@@ -15,7 +15,7 @@ file: is_palindrome.py
 
 def is_palindrome(x):
     x = str(x)
-    if len(x) == 1:
+    if len(x) == 1 or len(x) == 0:
         return True
     if x[0] == x[-1]:
         return is_palindrome(x[1:len(x) - 1])
@@ -23,7 +23,7 @@ def is_palindrome(x):
         return False
 
 
-test = is_palindrome(1456541)
+test = is_palindrome(221122)
 print(test)
 """
 >>>True
