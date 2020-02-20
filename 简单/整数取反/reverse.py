@@ -1,6 +1,6 @@
 """
 coding:utf-8
-file: 整数取反.py
+file: reverse.py
 @author: jiangwei
 @contact: jiangwei_1994124@163.com
 @time: 2020/2/20 16:41

@@ -1,6 +1,6 @@
 """
 coding:utf-8
-file: 两数之和.py
+file: two_sum.py
 @author: jiangwei
 @contact: jiangwei_1994124@163.com
 @time: 2020/2/20 14:58
