@@ -33,3 +33,10 @@ print(test)
 """
 >>>False
 """
+
+test = is_valid('[]([]){{{{{}}}}}')
+print(test)
+
+"""
+>>>True
+"""
