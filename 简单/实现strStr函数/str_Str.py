@@ -39,3 +39,14 @@ def str_str(haystack: str, needle: str) -> int:
 
 test = str_str('hello', 'll')
 print(test)
+
+
+def test(haystack, needle):
+    if len(needle) == 0:
+        return 0
+    if len(needle) > len(haystack):
+        return -1
+    return haystack.index(needle)
+
+
+print(test('hello', 'll'))
