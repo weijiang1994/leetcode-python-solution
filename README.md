@@ -1,4 +1,6 @@
 # leetcode-python-solution
 Use python to solute leetcode program problem.
 
-`脑子比较简单,可能想到的解法不是最完善的.`
+1. 简单
+2. 中等
+3. 每日一题
